@@ -3,59 +3,65 @@
     <title>garret linn</title>
     <link href="https://garret-linn.github.io/website/feed.xml" rel="self" />
     <link href="https://garret-linn.github.io/website" />
-    <updated>2019-04-27T12:55:19-04:00</updated>
+    <updated>2019-04-27T13:32:15-04:00</updated>
     <author>
         <name>gl</name>
     </author>
     <id>https://garret-linn.github.io/website</id>
 
     <entry>
-        <title>Documentation : Garret Linn</title>
+        <title>Other Resources</title>
         <author>
             <name>gl</name>
         </author>
-        <link href="https://garret-linn.github.io/website/frontpiece.html"/>
-        <id>https://garret-linn.github.io/website/frontpiece.html</id>
+        <link href="https://garret-linn.github.io/website/frontpiece/"/>
+        <id>https://garret-linn.github.io/website/frontpiece/</id>
 
-        <updated>2019-04-27T12:47:51-04:00</updated>
+        <updated>2019-04-27T12:58:39-04:00</updated>
             <summary>
                 <![CDATA[
-                     other resourceslaboratories.comKino TechAre.na pages (random sources)
+                    laboratories.com Kino Tech Are.na pages (random sources)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1 id="mcetoc_1d9fr403a0"> </h1>
-<h1 id="mcetoc_1d9fqstri0">other resources</h1>
-<ul>
-<li><a href="http://laboratories.com" target="_blank" rel="noopener noreferrer">laboratories.com</a></li>
-<li><a href="Kino.Tech">Kino Tech</a></li>
-<li>Are.na pages (random sources)</li>
-</ul>
+                <p id="mcetoc_1d9fr403a0"><a href="http://laboratories.com" target="_blank" rel="noopener noreferrer">laboratories.com</a></p>
+<p><a href="http://kino.tech" target="_blank" rel="nofollow noopener noreferrer">Kino Tech</a></p>
+<p>Are.na pages (random sources)</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>seconf post</title>
+        <title>automobilux</title>
         <author>
             <name>gl</name>
         </author>
-        <link href="https://garret-linn.github.io/website/seconf-post.html"/>
-        <id>https://garret-linn.github.io/website/seconf-post.html</id>
+        <link href="https://garret-linn.github.io/website/seconf-post/"/>
+        <id>https://garret-linn.github.io/website/seconf-post/</id>
 
-        <updated>2019-04-27T12:10:17-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-04-27T13:00:30-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://garret-linn.github.io/website/media/posts/2/Screen-Shot-2019-04-04-at-7.29.35-AM.png" alt="" />
+                    a movie
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://garret-linn.github.io/website/media/posts/2/Screen-Shot-2019-04-04-at-7.29.35-AM.png" alt="" />
+                a movie
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>first post</title>
+        <title>Jacques Jarrige : or how I lost my faithin unreliable narrators</title>
         <author>
             <name>gl</name>
         </author>
-        <link href="https://garret-linn.github.io/website/first-post.html"/>
-        <id>https://garret-linn.github.io/website/first-post.html</id>
+        <link href="https://garret-linn.github.io/website/first-post/"/>
+        <id>https://garret-linn.github.io/website/first-post/</id>
 
-        <updated>2019-04-27T11:37:38-04:00</updated>
+        <updated>2019-04-27T13:01:29-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
