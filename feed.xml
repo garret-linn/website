@@ -3,12 +3,24 @@
     <title>garret linn</title>
     <link href="https://garret-linn.github.io/website/feed.xml" rel="self" />
     <link href="https://garret-linn.github.io/website" />
-    <updated>2019-04-27T12:06:27-04:00</updated>
+    <updated>2019-04-27T12:15:59-04:00</updated>
     <author>
         <name>gl</name>
     </author>
     <id>https://garret-linn.github.io/website</id>
 
+    <entry>
+        <title>seconf post</title>
+        <author>
+            <name>gl</name>
+        </author>
+        <link href="https://garret-linn.github.io/website/seconf-post.html"/>
+        <id>https://garret-linn.github.io/website/seconf-post.html</id>
+
+        <updated>2019-04-27T12:10:17-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>first post</title>
         <author>
