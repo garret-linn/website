@@ -3,12 +3,38 @@
     <title>garret linn</title>
     <link href="https://garret-linn.github.io/website/feed.xml" rel="self" />
     <link href="https://garret-linn.github.io/website" />
-    <updated>2019-04-27T12:32:46-04:00</updated>
+    <updated>2019-04-27T12:55:19-04:00</updated>
     <author>
         <name>gl</name>
     </author>
     <id>https://garret-linn.github.io/website</id>
 
+    <entry>
+        <title>Documentation : Garret Linn</title>
+        <author>
+            <name>gl</name>
+        </author>
+        <link href="https://garret-linn.github.io/website/frontpiece.html"/>
+        <id>https://garret-linn.github.io/website/frontpiece.html</id>
+
+        <updated>2019-04-27T12:47:51-04:00</updated>
+            <summary>
+                <![CDATA[
+                     other resourceslaboratories.comKino TechAre.na pages (random sources)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="mcetoc_1d9fr403a0"> </h1>
+<h1 id="mcetoc_1d9fqstri0">other resources</h1>
+<ul>
+<li><a href="http://laboratories.com" target="_blank" rel="noopener noreferrer">laboratories.com</a></li>
+<li><a href="Kino.Tech">Kino Tech</a></li>
+<li>Are.na pages (random sources)</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>seconf post</title>
         <author>

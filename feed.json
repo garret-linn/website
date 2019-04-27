@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://garret-linn.github.io/website/frontpiece.html",
+            "url": "https://garret-linn.github.io/website/frontpiece.html",
+            "title": "Documentation : Garret Linn",
+            "summary": " other resourceslaboratories.comKino TechAre.na pages (random sources)",
+            "content_html": "<h1 id=\"mcetoc_1d9fr403a0\"> </h1>\n<h1 id=\"mcetoc_1d9fqstri0\">other resources</h1>\n<ul>\n<li><a href=\"http://laboratories.com\" target=\"_blank\" rel=\"noopener noreferrer\">laboratories.com</a></li>\n<li><a href=\"Kino.Tech\">Kino Tech</a></li>\n<li>Are.na pages (random sources)</li>\n</ul>",
+            "author": {
+                "name": "gl"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-27T12:46:37-04:00",
+            "date_modified": "2019-04-27T12:47:51-04:00"
+        },
+        {
             "id": "https://garret-linn.github.io/website/seconf-post.html",
             "url": "https://garret-linn.github.io/website/seconf-post.html",
             "title": "seconf post",
