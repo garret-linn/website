@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "garret linn",
+    "description": "",
+    "home_page_url": "https://garret-linn.github.io/website",
+    "feed_url": "https://garret-linn.github.io/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "gl"
+    },
+    "items": [
+        {
+            "id": "https://garret-linn.github.io/website/first-post.html",
+            "url": "https://garret-linn.github.io/website/first-post.html",
+            "title": "first post",
+            "content_html": "<img src=\"https://garret-linn.github.io/website/media/posts/1/kJvngMC.jpg\" alt=\"\" width=\"564\" height=\"874\">",
+            "image": "https://garret-linn.github.io/website/media/posts/1/kJvngMC.jpg",
+            "author": {
+                "name": "gl"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-27T10:31:33-04:00",
+            "date_modified": "2019-04-27T11:37:38-04:00"
+        }
+    ]
+}

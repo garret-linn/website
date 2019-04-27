@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>garret linn</title>
+    <link href="https://garret-linn.github.io/website/feed.xml" rel="self" />
+    <link href="https://garret-linn.github.io/website" />
+    <updated>2019-04-27T12:05:16-04:00</updated>
+    <author>
+        <name>gl</name>
+    </author>
+    <id>https://garret-linn.github.io/website</id>
+
+    <entry>
+        <title>first post</title>
+        <author>
+            <name>gl</name>
+        </author>
+        <link href="https://garret-linn.github.io/website/first-post.html"/>
+        <id>https://garret-linn.github.io/website/first-post.html</id>
+
+        <updated>2019-04-27T11:37:38-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://garret-linn.github.io/website/media/posts/1/kJvngMC.jpg" alt="" />
+                <img src="https://garret-linn.github.io/website/media/posts/1/kJvngMC.jpg" alt="" width="564" height="874">
+            ]]>
+        </content>
+    </entry>
+</feed>
